@@ -5,7 +5,7 @@ use bevy::{
 };
 use kayak_ui::bevy::{BevyContext, BevyKayakUIPlugin, FontMapping, UICameraBundle};
 use kayak_ui::core::{
-    render, rsx, widget, Event, EventType, Index, KayakContextRef, KeyCode, OnEvent,
+    render, rsx, widget, Event, EventType, KayakContextRef, KeyCode, OnEvent,
 };
 use kayak_ui::widgets::{App, Text};
 
